@@ -1,1 +1,1 @@
-<p align = "center"><h1>DBMS Third Semester Project</h1></p>
+<p align = "center"><h1 align = "center">DBMS Third Semester Project</h1></p>
